@@ -47,4 +47,4 @@ jobs:
       run: npm i
 
     - name: "Running test cases"
-      run: npm run test
+      run: npm run test 
